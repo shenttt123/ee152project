@@ -4,7 +4,7 @@ import sys
 from datetime import datetime
 
 # Server configuration
-PORT = 8888  # Port range: 1024-65535
+PORT = 8888 
 
 # Function to read HTML file contents
 def read_html_file(filename):
